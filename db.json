@@ -1,0 +1,36 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "title": "O Senhor dos Anéis: A Sociedade do Anel",
+      "type": "Movie",
+      "year": 2001,
+      "rating": 10,
+      "coverUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Breaking Bad",
+      "type": "Series",
+      "year": 2008,
+      "rating": 9,
+      "coverUrl": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Interestelar",
+      "type": "Movie",
+      "year": 2014,
+      "rating": 9,
+      "coverUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Stranger Things",
+      "type": "Series",
+      "year": 2016,
+      "rating": 8,
+      "coverUrl": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg"
+    }
+  ]
+}

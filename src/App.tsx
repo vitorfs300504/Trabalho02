@@ -10,11 +10,14 @@ const Home: React.FC = () => (
   <div className="container my-5 p-5 bg-light rounded-3 shadow">
     <div className="text-center">
       <h1 className="display-4 text-primary">
-        <i className="bi bi-rocket-takeoff me-3"></i>Bem-vindo ao Catálogo!
+        <i className="bi bi-rocket-takeoff me-3"></i>Catálogo de Filmes Disponíveis!
       </h1>
       <hr className="my-4" />
       <p>
-        Use a navegação acima para **Ver o Catálogo** ou para **Adicionar um Novo Registro**.
+        Clique em **Ver Catálogo** para visualizar filmes ou séries disponiveis
+      </p>
+      <p>
+        Clique em **Novo Registro** para adicionar novo filme ou série
       </p>
     </div>
   </div>

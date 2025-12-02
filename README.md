@@ -1,71 +1,17 @@
+🚀 Trabalho02: Personal Catalog (Catálogo Pessoal de Filmes e Séries)
+Este projeto é uma aplicação moderna desenvolvida com React e TypeScript que funciona como um Catálogo Pessoal (Personal Catalog) para gerenciar e visualizar seus filmes e séries favoritos. Utiliza Vite como ferramenta de build, garantindo um ambiente de desenvolvimento rápido e eficiente.
 
-# React + TypeScript + Vite
+🎯 Visão Geral do Projeto
+O objetivo principal deste projeto é oferecer uma solução intuitiva para que o usuário possa registrar, organizar, visualizar e avaliar seus próprios títulos de entretenimento (filmes e séries).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Principais Funcionalidades:
+.Visualização em Card: Exibição clara dos títulos em um formato de card moderno, incluindo capa, título, ano, tipo e avaliação (10/10 na demonstração).
 
-Currently, two official plugins are available:
+.Registro de Novos Títulos: Adicione facilmente novos filmes ou séries ao seu catálogo (menu "Novo Registro").
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+.Gerenciamento de Itens: Botões de Editar e Remover para manter o catálogo sempre atualizado e preciso.
 
-## React Compiler
+.Tipagem Clara: Diferenciação visual entre Filme e Série em cada card.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      
-
-      
-      tseslint.configs.recommendedTypeChecked,
-      
-      tseslint.configs.strictTypeChecked,
-      
-      tseslint.configs.stylisticTypeChecked,
-
-      
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      
-      reactX.configs['recommended-typescript'],
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-    },
-  },
-])
-```
- 24b3633 (Finalizando trabalho)
+🛠️ Tecnologias Utilizadas
+React + TypeScript + Vite 

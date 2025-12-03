@@ -15,3 +15,6 @@ Principais Funcionalidades:
 
 🛠️ Tecnologias Utilizadas
 React + TypeScript + Vite 
+
+segue o link do meu video explicando meu trabalho: 
+https://drive.google.com/file/d/1Y8PqUxCY7OkiyURjaJ8WQPDdU9l15dL-/view?usp=drive_link

@@ -1,3 +1,5 @@
+Aluno: Vitor de Freitas e Silva 
+Matricula: 01861723
 🚀 Trabalho02: Personal Catalog (Catálogo Pessoal de Filmes e Séries)
 Este projeto é uma aplicação moderna desenvolvida com React e TypeScript que funciona como um Catálogo Pessoal (Personal Catalog) para gerenciar e visualizar seus filmes e séries favoritos. Utiliza Vite como ferramenta de build, garantindo um ambiente de desenvolvimento rápido e eficiente.
 
